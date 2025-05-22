@@ -31,7 +31,10 @@ This project presents an in-depth analysis of **Tesla, Inc.**, combining financi
 - Tesla remains the **EV market leader** with ~18–20% global share as of 2024
 
 ---
-
+## Data Analysis Tools
+- Excel : All liquidity, Profitability Ratio were carried out in excel
+- Python : CAPM, WACC, Monte Carlo, Fb Prophet were carried out using python
+---
 ## 📊 Financial & Ratio Analysis (2024)
 
 ### Liquidity:
